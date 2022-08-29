@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Css, js, react**
 
-- 📫 How to reach me **nidhisharma@gmail.com**
+- 📫 How to reach me **nidhisharma639593@gmail.com**
 
 - 📄 Know about my experiences [https://nidhisharma63.github.io/my-portfolio/](https://nidhisharma63.github.io/my-portfolio/)
 
