@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm nidhi sharma</h1>
 <h3 align="center">A passionate frontend developer from India for building beautiful, responsive websites</h3>
 
+<a href="https://app.daily.dev/NidhiSharma"><img src="https://api.daily.dev/devcards/c740716cf7c3475585ab0db86b172386.png?r=89d" width="400" alt="nidhi sharma's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhisharma63&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisharma63" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhisharma63" alt="nidhisharma63" /></a> </p>
