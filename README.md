@@ -26,6 +26,7 @@
 <a href="https://codepen.io/nidhisharma63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nidhisharma63" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nidhi-sharma-55329823b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi-sharma-55329823b" height="30" width="40" /></a>
 <a href="https://discord.gg/nidhisharma#1070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nidhisharma#1070" height="30" width="40" /></a>
+<a href="https://medium.com/@nidhisharma639593" target="blank"><img align="center" src="https://miro.medium.com/max/1200/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="nidhisharma#1070" height="50" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
