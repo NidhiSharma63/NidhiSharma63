@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nidhi sharma</h1>
+<h1 align="center">Hi 👋, I'm Nidhi sharma</h1>
 <h3 align="center">A passionate frontend developer from India for building beautiful, responsive websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhisharma63&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisharma63" /> </p>
