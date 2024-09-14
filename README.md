@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nidhisharma639593@gmail.com**
 
-- 📄 Know about my experiences [https://nidhisharma63.github.io/my-portfolio/](https://nidhisharma63.github.io/my-portfolio/)
+- 📄 Know about my experiences [https://nidhisharma63.github.io/my-portfolio/](https://nidhisharma63.github.io/my-portfolio/)](https://nidhi-sharma-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
