@@ -13,13 +13,12 @@
 
 - 🤝 I’m looking for help with **experience**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NidhiSharma63/my-portfolio](https://github.com/NidhiSharma63/my-portfolio)
-
+- 👨‍💻 All of my projects are available at  [Portfolio](https://nidhi-sharma-portfolio.vercel.app/)
 - 💬 Ask me about **Css, js, react**
 
 - 📫 How to reach me **nidhisharma639593@gmail.com**
 
-- 📄 Know about my experiences [https://nidhisharma63.github.io/my-portfolio/](https://nidhisharma63.github.io/my-portfolio/)](https://nidhi-sharma-portfolio.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://nidhi-sharma-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
